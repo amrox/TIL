@@ -2,7 +2,7 @@
 
  - [Software](Software/README.md)
 
-# [License](LICENSE)
+## [License](LICENSE)
 
 © 2020-Present Andy Mroczkowski
 
