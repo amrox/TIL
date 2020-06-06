@@ -6,6 +6,7 @@
       - [A basic Find module for a C++ header-only library](Software/Build-Systems/CMake/Find-Module-for-Header-Only.md)
   - [Shells](Software/Shells/README.md)
     - [bash](Software/Shells/bash/README.md)
+	  - [Sync history between bash shells](Software/Shells/bash/Sync-History.md)
  
 ## [License](LICENSE)
 
