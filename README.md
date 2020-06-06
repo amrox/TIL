@@ -4,7 +4,9 @@
   - [Build-Systems](Software/Build-Systems/README.md)
     - [CMake](Software/Build-Systems/CMake/README.md)
       - [A basic Find module for a C++ header-only library](Software/Build-Systems/CMake/Find-Module-for-Header-Only.md)
-
+  - [Shells](Software/Shells/README.md)
+    - [bash](Software/shells/bash/README.md)
+ 
 ## [License](LICENSE)
 
 © 2020-Present Andy Mroczkowski
