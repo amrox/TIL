@@ -1,4 +1,4 @@
-# Cmake
+# CMake
 ## Find Module for Header-Only-Library
 
 Basic example of a find module for a C++ header-only library.
